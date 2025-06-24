@@ -94,6 +94,7 @@ mvn test -Dcucumber.filter.tags="not @Read"
 ---
 ## Reddit API Automation
 
+This project contains automated tests for the Reddit Android application using Java, Appium, and TestNG.
 
 ## Technologies Used
 
