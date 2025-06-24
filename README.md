@@ -92,7 +92,7 @@ mvn test -Dcucumber.filter.tags="not @Read"
 - Delete existing and non-existing users
 
 ---
-## Reddit API Automation
+## Reddit Mobile Automation
 
 This project contains automated tests for the Reddit Android application using Java, Appium, and TestNG.
 
