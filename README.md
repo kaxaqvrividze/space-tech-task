@@ -91,10 +91,6 @@ mvn test -Dcucumber.filter.tags="not @Read"
 
 - Delete existing and non-existing users
 
-⚙️ Configuration
-
-API configuration is extracted into: **Config.java**
-
 ---
 ## Reddit API Automation
 
